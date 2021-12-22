@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bogdan-cojan
+- 👋 Hi, I’m Bogdan.
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning Ruby-on-Rails.
 - 💞️ I’m looking to collaborate on great projects.
 
 <!---
