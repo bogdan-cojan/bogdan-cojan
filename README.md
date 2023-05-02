@@ -9,7 +9,12 @@
   </a>
 </p>
 
-# 〰️ About me 〰️
+<div>
+  <a href="https://www.codewars.com/">
+    <img align="right" src="https://www.codewars.com/users/bogdan-cojan/badges/large" />
+  </a>
+  <h1>〰️ About me 〰️</h1>
+</div>
 <table>
  <tr>
     <td width="60%"> 📌 I'm a passionate programmer who has been tinkering with code since high school. I love the challenge of programming and enjoy taking on new projects to expand my skills. I am always striving to improve my abilities and take on new challenges. I am an unstoppable problem solver and enjoy the satisfaction of finding solutions to even the most difficult coding challenges. When I'm not coding, you'll likely find me online learning new things, whether it's through Google or asking ChatGPT for help. I'm always eager to learn new things and I look forward to collaborating with others in the programming community.</td>
